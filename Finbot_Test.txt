@@ -1,0 +1,19 @@
+
+(Alx-Python) C:\Users\USER>python Finbot.py
+python: can't open file 'C:\\Users\\USER\\Finbot.py': [Errno 2] No such file or directory
+
+(Alx-Python) C:\Users\USER>cd C:\Users\USER\Documents\ALX-DS\BCG
+
+(Alx-Python) C:\Users\USER\Documents\ALX-DS\BCG> python Finbot.py
+Ask me a financial question (or type 'exit' to quit): In which year did the 3 companies have an increase in revenue growth?
+All 3 companies had an increase in revenue growth in 2024.
+Ask me a financial question (or type 'exit' to quit): What was Apple's net income in 2022?
+Apples' net income in 2022 was 99 billion dollars.
+Ask me a financial question (or type 'exit' to quit): How has the net income of Microsoft changed over the last year?
+Sorry, I can only provide information on predefined queries.
+Ask me a financial question (or type 'exit' to quit): Who owns Tesla?
+Sorry, I can only provide information on predefined queries.
+Ask me a financial question (or type 'exit' to quit): exit
+Goodbye!
+
+(Alx-Python) C:\Users\USER\Documents\ALX-DS\BCG>
