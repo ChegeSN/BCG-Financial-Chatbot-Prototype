@@ -1,5 +1,3 @@
-Chatbot Prototype Documentation
-
 Overview:
 This is a simplified chatbot designed to answer predefined financial queries based on analyzed data.
 
