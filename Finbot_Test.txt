@@ -1,7 +1,3 @@
-
-(Alx-Python) C:\Users\USER>python Finbot.py
-python: can't open file 'C:\\Users\\USER\\Finbot.py': [Errno 2] No such file or directory
-
 (Alx-Python) C:\Users\USER>cd C:\Users\USER\Documents\ALX-DS\BCG
 
 (Alx-Python) C:\Users\USER\Documents\ALX-DS\BCG> python Finbot.py
